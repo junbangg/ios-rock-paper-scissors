@@ -1,8 +1,10 @@
+# ✌🏻 묵찌빠 게임
+
+* 팀 프로젝트(2인)
+* 프로젝트 기간: 2021.10.11 ~ 2021.10.15
+
 # 목차
-- [묵찌빠 게임](#---------)
-    * [키워드](#키워드)
-- [Contributors](#Contributors)
-- [Reviewers](#Reviewers)
+- [키워드](#키워드)
 - [Flow chart](#Flow-chart)
 - [STEP 1 : 가위바위보 구현](#STEP-1--가위바위보-구현)
     + [고민했던 것](#1-1-고민했던-것)
@@ -17,19 +19,6 @@
     + [배운 개념](#2-4-배운-개념)
     + [해결하지 못한 점](#2-5-해결하지-못한-점)
     + [PR 후 개선사항](#2-6-PR-후-개선사항)
-
-# ✌🏻 묵찌빠 게임
-
-1. 프로젝트 기간: 2021.10.11 - 2021.10.15
-2. Grounds Rules
-    - Time Rule
-        - 아침: 10시
-        - 점심시간: 12시~ 1시
-        - 저녁시간: 6시~7시
-        - 프로젝트 최대 제한시간: 저녁 9시 ~ 최대 9시 30분 까지!
-3. 커밋 규칙
-    - 단위 : 기능 단위로
-    - Convention: Karma Style
 
 ## 키워드
 
@@ -46,14 +35,6 @@
 - `CaseIterable`
 - `재귀함수`
 - `LLDB`
-
-# Contributors
-
-[@leeari95](https://github.com/leeari95) [@junbangg](https://github.com/junbangg)
-
-# Reviewers
-
-[@soll4u](https://github.com/soll4u) 
 
 # Flow chart
 ![가위바위보 시작](https://i.imgur.com/SbJ7RUy.jpg)
